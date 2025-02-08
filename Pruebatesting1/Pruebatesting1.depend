@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739036755 source:c:\users\frle\desktop\todos los programas de codeblocks\pruebatesting1\main.c
+	<stdio.h>
+	<stdlib.h>
+
